@@ -25,7 +25,7 @@ SECRET_KEY = '!zjsazu@jcsj2jo-m@3jd2jd+uqx7&ct8yqd%78zqi+14)vn%x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'elmusetest.herokuapp.com',]
 
 
 # Application definition
