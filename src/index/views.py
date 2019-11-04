@@ -6,9 +6,6 @@ from django.shortcuts import render
 
 
 def elmuse(request):
-    return render(request, "elmuse.html",)
-
-
-
+    return render(request, "index/elmuse.html",)
 
 # Create your views here.
